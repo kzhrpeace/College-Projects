@@ -12,7 +12,7 @@ import org.junit.runners.JUnit4;
  *
  *  @version 3.1 09/11/15 11:32:15
  *
- *  @author  Kazuhiro Tobita (18308725)
+ *  @author  
  */
 
 @RunWith(JUnit4.class)
