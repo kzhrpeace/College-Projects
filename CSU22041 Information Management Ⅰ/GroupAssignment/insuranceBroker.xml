@@ -6,7 +6,7 @@
     <email>Klaudia@email.com</email>
     <password>KobiRocks</password>
     <username>Kobi</username>
-    <name>Klaudia Obieglo</name>
+    <name>Klaudia</name>
 </insuranceBroker>
 
 <insuranceBroker id="8">
@@ -14,6 +14,6 @@
     <email>kaz@email.com</email>
     <password>SuperSecret</password>
     <username>Kaz123</username>
-    <name>Kazuhiro Tobita</name>
+    <name>Kazuhiro</name>
 </insuranceBroker>
 </brokerList>
