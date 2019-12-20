@@ -8,7 +8,7 @@
     <distance>2000</distance>
 
     <driver>
-        <name>Sam Walsh</name>
+        <name>Sam</name>
         <licenceNum>123</licenceNum>
         <mobile>0861111112</mobile>
         <email>sam@email.com</email>
@@ -24,7 +24,7 @@
     <distance>10000</distance>
 
     <driver>
-        <name>Franklin Ume</name>
+        <name>Franklin</name>
         <licenceNum>888</licenceNum>
         <mobile>0876565656</mobile>
         <email>frank@email.com</email>
@@ -32,7 +32,7 @@
     </driver>
 
     <driver>
-        <name>Chris Staunton</name>
+        <name>Chris</name>
         <licenceNum>909</licenceNum>
         <mobile>0864444444</mobile>
         <email>chris@email.com</email>
