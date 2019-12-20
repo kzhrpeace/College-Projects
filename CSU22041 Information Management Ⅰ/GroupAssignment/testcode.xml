@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<form>
+<bibl>
+    <biblScope>1</biblScope>
+    <biblScope>a</biblScope>
+</bibl>
+<bibl>
+    <biblScope>2</biblScope>
+    <biblScope>b</biblScope>
+</bibl>
+<bibl>
+    <biblScope>38</biblScope>
+    <biblScope>c</biblScope>
+</bibl>
+</form>

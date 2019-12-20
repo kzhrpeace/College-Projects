@@ -1,0 +1,21 @@
+<!DOCTYPE agency [
+
+<!ELEMENT agency (phone, email, address, website, name, actuary)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT website (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT actuary (id, company, amount, quote)>
+
+<!ATTLIST actuary id CDATA #REQUIRED>
+
+<!ELEMENT company (#PCDATA)>
+<!ELEMENT amount (#PCDATA)>
+<!ELEMENT quote (amount, accept, noClaimsBonus?)>
+<!ELEMENT amount (#PCDATA)>
+<!ELEMENT accept (#PCDATA)>
+<!ELEMENT noClaimsBonus (length, discount, valid)>
+<!ELEMENT length (#PCDATA)>
+<!ELEMENT discount (#PCDATA)>
+<!ELEMENT valid (#PCDATA)>
